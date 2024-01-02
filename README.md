@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharath M</h1>
 
 <!--
-**SharathM18/SharathM18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### SKILLS:
+
+- Programming Languages: `Python` `JavaScript`  `SQL`
+- Web Technologies: `HTML` `CSS`
+- Version Control:  `Git` `GitHub`
+- Concepts: `Object-Oriented Programming` `Box Model` `CSS Flexbox` `Grid Layout`
+- Tools: `VS Code` `Markdown`
