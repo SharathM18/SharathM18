@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharath M</h1>
 
+[![](https://visitcount.itsvg.in/api?id=SharathM18&icon=0&color=1)](https://visitcount.itsvg.in)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,7 +16,7 @@
 ### SKILLS:
 
 - Programming Languages: `Python` `JavaScript`  `SQL`
-- Web Technologies: `HTML` `CSS`
+- Web Technologies: `HTML5` `CSS3`
 - Version Control:  `Git` `GitHub`
-- Concepts: `Object-Oriented Programming` `Box Model` `CSS Flexbox` `Grid Layout`
+- Concepts: `Object-Oriented Programming` `Box Model` `CSS Flexbox` `Grid Layout` `DOM` `EventListener`
 - Tools: `VS Code` `Markdown`
