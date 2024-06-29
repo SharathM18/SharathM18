@@ -8,7 +8,6 @@ I'm a passionate frontend developer with a knack for building sleek and intuitiv
 
 ### What I'm Up To
 
-- 🔭 I’m currently working on implementing a blog website.
 - 🌱 I’m currently learning React.js and advanced CSS techniques.
 - 👯 I’m looking to collaborate on Open-source projects related to web development.
 - 🤔 I’m looking for help with optimizing performance in React applications.
